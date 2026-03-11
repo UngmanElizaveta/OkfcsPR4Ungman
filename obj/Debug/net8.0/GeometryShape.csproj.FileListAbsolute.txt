@@ -1,0 +1,12 @@
+C:\pr31_ungman\GeometryShape\bin\Debug\net8.0\GeometryShape.deps.json
+C:\pr31_ungman\GeometryShape\bin\Debug\net8.0\GeometryShape.dll
+C:\pr31_ungman\GeometryShape\bin\Debug\net8.0\GeometryShape.pdb
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\GeometryShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfoInputs.cache
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfo.cs
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\GeometryShape.csproj.CoreCompileInputs.cache
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\GeometryShape.sourcelink.json
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\GeometryShape.dll
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\refint\GeometryShape.dll
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\GeometryShape.pdb
+C:\pr31_ungman\GeometryShape\obj\Debug\net8.0\ref\GeometryShape.dll

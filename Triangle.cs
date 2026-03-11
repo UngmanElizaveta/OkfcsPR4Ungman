@@ -12,15 +12,21 @@ namespace GeometryShape
         public double SideB { get; set; }
         public double SideC { get; set; }
 
-        public double Area()
+        public double Area(double a, double b, double c)
         {
+            SideA = a;
+            SideB = b;
+            SideC = c;
             double poluperimeter = (SideA + SideB + SideC) / 2;
 
-            return Math.Sqrt(poluperimeter * (poluperimeter - SideA) * (poluperimeter - SideB) * (poluperimeter - SideC));
+            return Math.Round(Math.Sqrt(poluperimeter * (poluperimeter - SideA) * (poluperimeter - SideB) * (poluperimeter - SideC)),2);
         }
 
-        public double Perimeter()
+        public double Perimeter(double a, double b, double c)
         {
+            SideA = a;
+            SideB = b;
+            SideC = c;
             return SideA + SideB + SideC;
         }
 
@@ -30,8 +36,11 @@ namespace GeometryShape
 
         }
 
-        public string Validation()
+        public string Validation(double a, double b, double c)
         {
+            SideA = a;
+            SideB = b;
+            SideC = c;
             if (SideA < SideB + SideC)
                 return "некорректные данные";
             if (SideB < SideA + SideC)

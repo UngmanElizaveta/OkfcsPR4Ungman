@@ -36,6 +36,21 @@ namespace GeometryShape
         {
             return $"Площадь прямоугольника равна {Area} и периметр равен {Perimeter}";
         }
+        public string Validation(double width, double height)
+        {
+            Width = width;
+            Height = height;
+            if (width<0)
+                return "некорректные данные";
+            if (width==0)
+                return "некорректные данные";
+            if (height<0)
+                return "некорректные данные";
+            if (height==0)
+                return "некорректные данные";
+
+            return "";
+        }
 
     }
 }
