@@ -42,7 +42,7 @@
               "RelativeDocumentMoniker": "..\\TestGeometryShape\\TriangleTest.cs",
               "ToolTip": "C:\\pr31_ungman\\TestGeometryShape\\TriangleTest.cs",
               "RelativeToolTip": "..\\TestGeometryShape\\TriangleTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-14T17:26:28.852Z",
               "EditorCaption": ""
@@ -57,8 +57,7 @@
               "RelativeToolTip": "..\\TestGeometryShape\\RectangleTest.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwCEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T10:03:46.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T10:03:46.62Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "RelativeToolTip": "Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:31:18.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:31:18.495Z"
             },
             {
               "$type": "Document",
@@ -83,8 +81,7 @@
               "RelativeToolTip": "Triangle.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:47:52.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:47:52.279Z"
             },
             {
               "$type": "Document",
