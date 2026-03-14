@@ -3,18 +3,18 @@
   "WorkspaceRootPath": "C:\\pr31_ungman\\GeometryShape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33940441-1BE9-073F-D187-B72FA235E79F}|..\\TestGeometryShape\\TestGeometryShape.csproj|c:\\pr31_ungman\\testgeometryshape\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33940441-1BE9-073F-D187-B72FA235E79F}|..\\TestGeometryShape\\TestGeometryShape.csproj|c:\\pr31_ungman\\testgeometryshape\\rectangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F03424D-A494-466F-A875-66124E125B61}|GeometryShape.csproj|c:\\pr31_ungman\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F03424D-A494-466F-A875-66124E125B61}|GeometryShape.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F03424D-A494-466F-A875-66124E125B61}|GeometryShape.csproj|c:\\pr31_ungman\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F03424D-A494-466F-A875-66124E125B61}|GeometryShape.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33940441-1BE9-073F-D187-B72FA235E79F}|..\\TestGeometryShape\\TestGeometryShape.csproj|c:\\pr31_ungman\\testgeometryshape\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03424D-A494-466F-A875-66124E125B61}|GeometryShape.csproj|c:\\pr31_ungman\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03424D-A494-466F-A875-66124E125B61}|GeometryShape.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F03424D-A494-466F-A875-66124E125B61}|GeometryShape.csproj|c:\\pr31_ungman\\geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TriangleTest.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\TestGeometryShape\\TriangleTest.cs",
               "RelativeDocumentMoniker": "..\\TestGeometryShape\\TriangleTest.cs",
@@ -49,31 +49,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RectangleTest.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\TestGeometryShape\\RectangleTest.cs",
               "RelativeDocumentMoniker": "..\\TestGeometryShape\\RectangleTest.cs",
               "ToolTip": "C:\\pr31_ungman\\TestGeometryShape\\RectangleTest.cs",
               "RelativeToolTip": "..\\TestGeometryShape\\RectangleTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T10:03:46.62Z"
+              "WhenOpened": "2026-03-11T10:03:46.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\GeometryShape\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
               "ToolTip": "C:\\pr31_ungman\\GeometryShape\\Rectangle.cs",
               "RelativeToolTip": "Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:31:18.495Z"
+              "WhenOpened": "2026-03-04T09:31:18.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\pr31_ungman\\GeometryShape\\Triangle.cs",
               "RelativeDocumentMoniker": "Triangle.cs",
